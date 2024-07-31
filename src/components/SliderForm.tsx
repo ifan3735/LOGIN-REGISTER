@@ -1,6 +1,6 @@
 // src/SliderForm.tsx
 import React, { useState } from "react";
-import '../SliderForm.css';
+import "../SliderForm.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebookF, faGooglePlusG, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 
