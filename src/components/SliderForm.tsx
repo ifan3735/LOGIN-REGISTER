@@ -29,6 +29,9 @@ const SliderForm: React.FC = () => {
           <input type="text" placeholder="Name" />
           <input type="email" placeholder="Email" />
           <input type="password" placeholder="Password" />
+          <input type="password" placeholder="Confirm Password" />
+          <input type="text" placeholder="contact" />
+          <input type="text" placeholder="address" />
           <button>Sign Up</button>
         </form>
       </div>
